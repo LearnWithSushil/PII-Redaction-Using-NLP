@@ -1,0 +1,12 @@
+John Doe lives in New York and his social security number is 123-45-6789.
+He frequently uses his credit card number 4111-1111-1111-1111 for online transactions.
+His email address is john.doe@example.com and his phone number is +1-555-123-4567.
+He accessed the website https://example.com from IP address 192.168.0.1.
+His passport number is X1234567, and his bank account number is 123456789012.
+
+
+Sushil Kumar lives in Bangalore and his social security number is 123-45-6789.
+He frequently uses his credit card number 4111-1111-1111-1111 for online transactions.
+His email address is john.doe@example.com and his phone number is +91-9880633903.
+He accessed the website https://example.com from IP address 192.168.0.1.
+His passport number is X1234567, and his bank account number is 123456789012.
